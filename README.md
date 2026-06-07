@@ -2,5 +2,5 @@
 plants disease detection
 
 ## Model Download
-Trained model file (534 MB) Google Drive se download karo:  
-[Click here to download plant_disease_model.h5](YAHAN DRIVE KA LINK DAALO)
+Trained model file (534 MB) dowload from Google Drive :  
+[Click here to download plant_disease_model.h5]
